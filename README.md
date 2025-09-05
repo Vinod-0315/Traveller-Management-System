@@ -29,7 +29,7 @@ A Spring Boot RESTful API for managing traveller information, including location
 1. **Clone the repository**
 
 ```bash
-git clone <your-repository-url>
+git clone <[(https://github.com/Vinod-0315/Traveller-Management-System.git)]
 cd <project-folder>
 ```
 
